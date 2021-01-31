@@ -14,3 +14,6 @@ However, upon futher review of the individual lots, we can determine that Lot3 h
 
 ![Lot_Summary](lot_summary.png)
 
+## T-Tests on Suspension Coils
+As part of the analysis, we conducted a t-test for the overall summary of the 3 lots. When we look at the summary t-test for all lots, 
+
