@@ -28,3 +28,14 @@ When we look at each individual t-test of the different lots, only Lot3 is stati
 ![Lot3_T_test](t_test_lot2.png)
 
 ## Study Design: MechaCar vs Competition
+To compare how  MechaCar performs against its competitor, we could perfrom an anaysis to determine if cost is a driver/influence for consumers. For the test, we could use data including:
+- cost to purchase the vehicle
+- safety ratings
+- highway fuel efficiency
+- horsepower
+- maintenance cost
+- miles per gallon
+
+While these variables are helpful to conduct the statistical analysis, we would also need a large amount of data to ensure a strong analysis. I would try to collect information for the past 5 years. This would be more than sufficient.
+
+As far as what statistical test I would conduct, I would conduct a two sample t-test. I'd test the sample mean of the number of vehicles purchased for MechaCar and their competitor. The null hypothesis is if there is no statistical difference between the means. This shows the number of vehicles purchased between Mechacar and their competitor is roughly the same. The alternative hypothesis would be that there is a statistical difference between the means. This indicates the number of vehicles purchased between the two is different.
