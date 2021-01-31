@@ -15,5 +15,14 @@ However, upon futher review of the individual lots, we can determine that Lot3 h
 ![Lot_Summary](lot_summary.png)
 
 ## T-Tests on Suspension Coils
-As part of the analysis, we conducted a t-test for the overall summary of the 3 lots. When we look at the summary t-test for all lots, 
+As part of the analysis, we conducted a t-test for all lots and each individual lot to determine if the PSI is statistically different from the population mean of 1,500 pounds per square inch. When looking at the summary t-test, the p-value is over .05 which means there is no statistical difference (image below)
 
+![T_test_Summary](t_test_summary.png)
+
+When we look at each individual t-test of the different lots, only Lot3 is statistically significant due to a p-value of .04. When we look at Lots1 and 2, they are not significant as they have a p-value of 1 and .6 respectively
+
+![Lot3_T_test](t_test_lot3.png)
+
+![Lot3_T_test](t_test_lot1.png)
+
+![Lot3_T_test](t_test_lot2.png)
